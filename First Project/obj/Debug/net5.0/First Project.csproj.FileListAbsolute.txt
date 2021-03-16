@@ -1,0 +1,16 @@
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\obj\Debug\net5.0\First Project.csprojAssemblyReference.cache
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\obj\Debug\net5.0\First Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\obj\Debug\net5.0\First Project.AssemblyInfoInputs.cache
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\obj\Debug\net5.0\First Project.AssemblyInfo.cs
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\obj\Debug\net5.0\First Project.csproj.CoreCompileInputs.cache
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\bin\Debug\net5.0\First Project.exe
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\bin\Debug\net5.0\First Project.deps.json
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\bin\Debug\net5.0\First Project.runtimeconfig.json
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\bin\Debug\net5.0\First Project.runtimeconfig.dev.json
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\bin\Debug\net5.0\First Project.dll
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\bin\Debug\net5.0\ref\First Project.dll
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\bin\Debug\net5.0\First Project.pdb
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\obj\Debug\net5.0\First Project.dll
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\obj\Debug\net5.0\ref\First Project.dll
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\obj\Debug\net5.0\First Project.pdb
+C:\Users\Higor\Documents\GitHub\ProjectCSharp\First Project\obj\Debug\net5.0\First Project.genruntimeconfig.cache
